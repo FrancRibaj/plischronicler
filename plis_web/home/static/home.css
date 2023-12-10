@@ -1,0 +1,485 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .entire-frame-wrapper {
+  background-color: #ffffff;
+  width: 1472px;
+  height: 2976.17px;
+}
+
+.home .entire-frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.home .TOP-BAR {
+  position: relative;
+  width: 1472px;
+  height: 205.56px;
+}
+
+.home .bar-frame {
+  position: relative;
+  width: 1147px;
+  height: 91px;
+  top: 57px;
+  left: 164px;
+}
+
+.home .bar-group {
+  position: relative;
+  height: 91px;
+}
+
+.home .patreon-button-frame {
+  position: absolute;
+  width: 162px;
+  height: 67px;
+  top: 12px;
+  left: 0;
+  background-color: #cb0000;
+  border-radius: 48.26px;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  top: 26px;
+  left: 54px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .LOGO {
+  position: absolute;
+  width: 334px;
+  height: 91px;
+  top: 0;
+  left: 812px;
+  background-image: url(./img/LOGO.png);
+  background-size: 100% 100%;
+}
+
+.home .bar-options {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 29.49px;
+  position: absolute;
+  top: 24px;
+  left: 211px;
+}
+
+.home .div-wrapper {
+  position: relative;
+  width: 77.9px;
+  height: 41.11px;
+}
+
+.home .div {
+  position: absolute;
+  top: 10px;
+  left: 14px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #cb0000;
+  font-size: 16.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-2 {
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #cb0000;
+  font-size: 16.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-3 {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #cb0000;
+  font-size: 16.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .SECTOR {
+  position: relative;
+  width: 1315.59px;
+  height: 664.05px;
+}
+
+.home .youtube-vid-title {
+  position: relative;
+  width: 965px;
+  height: 564px;
+  left: 175px;
+}
+
+.home .title {
+  position: absolute;
+  width: 699px;
+  height: 60px;
+  top: 25px;
+  left: 133px;
+}
+
+.home .p {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 49.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .youtube-video {
+  position: absolute;
+  width: 845px;
+  height: 430px;
+  top: 134px;
+  left: 60px;
+  background-image: url(./img/youtube-video.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.home .SECTOR-2 {
+  position: relative;
+  width: 1472px;
+  height: 231.48px;
+  background-color: #ededed;
+}
+
+.home .text-sector {
+  position: absolute;
+  width: 1024px;
+  height: 56px;
+  top: 88px;
+  left: 224px;
+}
+
+.home .text-wrapper-4 {
+  position: absolute;
+  width: 1024px;
+  top: -1px;
+  left: 0;
+  font-family: "Gilroy-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 16.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .shqiponja-frame {
+  position: absolute;
+  width: 21px;
+  height: 24px;
+  top: 26px;
+  left: 713px;
+}
+
+.home .SECTOR-3 {
+  position: relative;
+  width: 1472px;
+  height: 505.86px;
+}
+
+.home .element-youtube-videos {
+  display: inline-flex;
+  align-items: center;
+  gap: 13.68px;
+  position: absolute;
+  top: 170px;
+  left: 136px;
+}
+
+.home .video-frame {
+  width: 413.19px;
+  height: 238.63px;
+  background-image: url(./img/screenshot-2023-11-28-184548-1.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.home .frame {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 4px;
+  left: 3px;
+}
+
+.home .frame-wrapper {
+  width: 380.61px;
+  height: 219.81px;
+  background-image: url(./img/screenshot-2023-11-28-184548-2.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.home .img {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 8px;
+  left: 6px;
+}
+
+.home .img-wrapper {
+  width: 380.61px;
+  height: 219.81px;
+  background-image: url(./img/screenshot-2023-11-28-184548-3.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.home .title-sector {
+  top: 73px;
+  position: absolute;
+  width: 616px;
+  height: 53px;
+  left: 136px;
+}
+
+.home .text-wrapper-5 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #cb0000;
+  font-size: 43.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .SECTOR-4 {
+  position: relative;
+  width: 1472px;
+  height: 602.38px;
+  background-color: #000000;
+}
+
+.home .title-sector-2 {
+  top: 87px;
+  position: absolute;
+  width: 616px;
+  height: 53px;
+  left: 136px;
+}
+
+.home .text-wrapper-6 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 43.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .element-murch-pictures {
+  position: absolute;
+  width: 1202px;
+  height: 319px;
+  top: 197px;
+  left: 134px;
+}
+
+.home .element-tshirt {
+  position: absolute;
+  width: 267px;
+  height: 267px;
+  top: 52px;
+  left: 3px;
+  background-color: #ffffff;
+}
+
+.home .the-pplis-chronicler {
+  position: absolute;
+  width: 267px;
+  height: 267px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.home .element-nd-tshirt {
+  position: absolute;
+  width: 267px;
+  height: 267px;
+  top: 52px;
+  left: 469px;
+  background-color: #ffffff;
+}
+
+.home .element-d-tshirt {
+  position: absolute;
+  width: 267px;
+  height: 267px;
+  top: 52px;
+  left: 935px;
+  background-color: #ffffff;
+}
+
+.home .text-sector-2 {
+  position: absolute;
+  width: 114px;
+  height: 21px;
+  top: 0;
+  left: 0;
+}
+
+.home .text-wrapper-7 {
+  position: absolute;
+  width: 114px;
+  top: -1px;
+  left: 0;
+  font-family: "Gilroy-Light", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home .SECTOR-5 {
+  position: relative;
+  width: 1472px;
+  height: 505.86px;
+  background-color: #cb0000;
+}
+
+.home .element-posts {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 69.71px;
+  position: absolute;
+  top: 154px;
+  left: 126px;
+}
+
+.home .group {
+  position: relative;
+  width: 575.57px;
+  height: 266.78px;
+}
+
+.home .post {
+  position: absolute;
+  width: 267px;
+  height: 267px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.home .the-pplis-chronicler-wrapper {
+  position: absolute;
+  width: 267px;
+  height: 267px;
+  top: 0;
+  left: 309px;
+  background-color: #ffffff;
+}
+
+.home .title-sector-3 {
+  top: 56px;
+  position: absolute;
+  width: 616px;
+  height: 53px;
+  left: 136px;
+}
+
+.home .SECTOR-6 {
+  position: relative;
+  width: 1472px;
+  height: 260.97px;
+  background-color: #000000;
+}
+
+.home .bar-on-the-bottom {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 25.92px;
+  position: absolute;
+  top: 91px;
+  left: 593px;
+}
+
+.home .text-wrapper-8 {
+  position: absolute;
+  top: 10px;
+  left: 6px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.home .text-wrapper-9 {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.home .text-wrapper-10 {
+  position: absolute;
+  top: 10px;
+  left: 23px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.home .icons {
+  position: absolute;
+  width: 141px;
+  height: 20px;
+  top: 151px;
+  left: 666px;
+}
