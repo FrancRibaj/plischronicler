@@ -1,6 +1,6 @@
 👋 HELLO THERE
 
-To make changes FRONTEND changes please address this files
+**To make FRONTEND changes please address these files:**
 
 ./plis_web/home/static/home.css 
 
