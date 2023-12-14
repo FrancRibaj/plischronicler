@@ -35,7 +35,9 @@ Navigate to the directory where you want to create your Django project and creat
 ```bash
 - On Windows
 python -m venv venv
+```
 
+```bash
 - On macOS/Linux
 python3 -m venv venv
 ```
