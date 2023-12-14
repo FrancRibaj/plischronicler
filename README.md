@@ -3,6 +3,8 @@
 To make changes FRONTEND changes please address this files
 
 ./plis_web/home/static/home.css 
+
+
 ./plis_web/home/static/home.html 
 
 
@@ -32,13 +34,13 @@ pip install virtualenv
 
 Navigate to the directory where you want to create your Django project and create a virtual environment:
 
-```bash
 - On Windows
+```bash
 python -m venv venv
 ```
 
-```bash
 - On macOS/Linux
+```bash
 python3 -m venv venv
 ```
 
